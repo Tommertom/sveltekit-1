@@ -12,7 +12,7 @@
 
 	<footer>
 		<p>
-			visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to HssELLOS33 SvelteKit
+			visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to TOMMMM SvelteKit
 		</p>
 	</footer>
 </div>
